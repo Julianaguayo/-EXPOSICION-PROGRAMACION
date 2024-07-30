@@ -1,4 +1,8 @@
 # EXPOSICION-PROGRAMACION
+#Resultados
+![image](https://github.com/user-attachments/assets/b9abe796-7db6-4892-bea3-b6cc21b220e1)
+![image](https://github.com/user-attachments/assets/f901764f-8ad7-48d3-9d17-836f729ed370)
+![image](https://github.com/user-attachments/assets/d390f9c9-0a52-4115-878b-7f60342d38c5)
 
 # ejecucion
 ![image](https://github.com/user-attachments/assets/4aba008d-3bdc-429c-b3ad-3292bbe425fc)
